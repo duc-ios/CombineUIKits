@@ -1,0 +1,6 @@
+framework module CombineUIKits {
+  umbrella header "CombineUIKits-umbrella.h"
+
+  export *
+  module * { export * }
+}

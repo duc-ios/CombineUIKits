@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CombineUIKits_Tests' do
+  pod 'CombineUIKits', :path => '../'
+  
+  
+end

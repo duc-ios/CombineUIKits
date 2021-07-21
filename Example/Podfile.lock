@@ -1,0 +1,16 @@
+PODS:
+  - CombineUIKits (0.0.1)
+
+DEPENDENCIES:
+  - CombineUIKits (from `../`)
+
+EXTERNAL SOURCES:
+  CombineUIKits:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CombineUIKits: c73980ba6d5eaca542d56dae5bd109df61ca4b75
+
+PODFILE CHECKSUM: 3259f74b4c8390c5ad0a0092eb4be691344b9473
+
+COCOAPODS: 1.15.2

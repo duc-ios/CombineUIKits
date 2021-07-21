@@ -1,0 +1,24 @@
+{
+  "name": "CombineUIKits",
+  "version": "0.0.1",
+  "summary": "CombineUIKits",
+  "swift_versions": "5.4",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/duc-ios/CombineUIKits",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Duc iOS": "duc.nh2012@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/duc-ios/CombineUIKits.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "CombineUIKits/Classes/**/*",
+  "swift_version": "5.4"
+}
